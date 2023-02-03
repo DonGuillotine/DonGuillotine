@@ -1,7 +1,7 @@
 ![Studio_Project](https://user-images.githubusercontent.com/89584431/216503042-d6ec35f1-be45-470f-90ec-38ebcb76f09d.gif)
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <a href="https://github.com/DonGuillotine">
         <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a>
        <h3>Here are some fun facts about me:</h3>
@@ -25,9 +25,40 @@
         <br/>
         <br />
     </td>
-      <td width="65%" align="center">
+      <td align="center">
         <h2>Articles I've read:</h2>
     <a href="https://app.daily.dev/DonGuillotine"><img src="https://api.daily.dev/devcards/b4681b96ff8545eb87624c936831470a.png?r=dfs" width="400" alt="Donald Nwokoro's Dev Card"/></a>
   </td>
   </tr>
 </table>
+<br>
+<br>
+<br>
+<br>
+<br>
+<a href="https://github.com/DonGuillotine">
+  <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=DonGuillotine&theme=tokyonight" />
+</a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<a href="https://github.com/DonGuillotine">
+      <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=DonGuillotine&hide=contribs&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<a href="https://github.com/DonGuillotine">
+          <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonGuillotine&hide=html,css,scss&langs_count=8&count_private=true&layout=compact&theme=tokyonight" />
+</a>
+<br>
+<br>
+<br>
+<br>
+<a href="[DonGuillotine](https://github.com/DonGuillotine)">
+ <img align="center" src="https://github-profile-trophy.vercel.app/?username=DonGuillotine&theme=darkhub&column=-1&margin-w=15" />
+ </a>
