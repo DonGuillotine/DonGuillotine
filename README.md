@@ -4,7 +4,7 @@
     <td width="50%">
       <a href="https://github.com/DonGuillotine">
         <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a>
-       <h3>As a backend developer, I am passionate about creating efficient and scalable systems that bring order to chaos. Here are some fun facts about me:</h3>
+       <h4>As a backend developer, I am passionate about creating efficient and scalable systems that bring order to chaos. Here are some fun facts about me:</h4>
        <h2>💪🏿 Taming Databases</h2>
         <p>I love taking on the challenge of taming databases, big or small. I aim to store and retrieve information in an easy and efficient manner.</p>
         <br/>
