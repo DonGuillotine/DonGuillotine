@@ -1,10 +1,10 @@
 ![Studio_Project](https://user-images.githubusercontent.com/89584431/216503042-d6ec35f1-be45-470f-90ec-38ebcb76f09d.gif)
 <table>
   <tr>
-    <td width="50%">
+    <td>
       <a href="https://github.com/DonGuillotine">
         <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a>
-       <h4>As a backend developer, I am passionate about creating efficient and scalable systems that bring order to chaos. Here are some fun facts about me:</h4>
+       <h3>Here are some fun facts about me:</h3>
        <h2>💪🏿 Taming Databases</h2>
         <p>I love taking on the challenge of taming databases, big or small. I aim to store and retrieve information in an easy and efficient manner.</p>
         <br/>
@@ -25,7 +25,8 @@
         <br/>
         <br />
     </td>
-      <td align="center">
+      <td width="65%" align="center">
+        <h2>Articles I've read:</h2>
     <a href="https://app.daily.dev/DonGuillotine"><img src="https://api.daily.dev/devcards/b4681b96ff8545eb87624c936831470a.png?r=dfs" width="400" alt="Donald Nwokoro's Dev Card"/></a>
   </td>
   </tr>
