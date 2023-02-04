@@ -1,7 +1,7 @@
 ![Studio_Project](https://user-images.githubusercontent.com/89584431/216503042-d6ec35f1-be45-470f-90ec-38ebcb76f09d.gif)
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center">
       <a href="https://github.com/DonGuillotine">
         <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a>
        <h3>Here are some fun facts about me:</h3>
