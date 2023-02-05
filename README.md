@@ -12,7 +12,7 @@
 - 🔭  I'm a Professional Facebook 3D creator, you can find my works [here](https://www.facebook.com/infect3dstudio/).
 - 👯  I’m looking to collaborate with people with Amazing Ideas.
 - 🎵  Music lover with a fondness for classic hits from various decades by artists such as Frank Sinatra, Bee Gees, Tears for Fears and other amazing singers.
-- 📙  I love to read, I'm a Huge fan of Dan Brown, Tom Clancy, Anne Rice and Thomas Hardy's books.
+- 📙  I love to read. I'm a Huge fan of Dan Brown, Tom Clancy, Anne Rice and Thomas Hardy's books.
 <br />
 
 ## 📩 Connect with me
@@ -42,7 +42,6 @@
 
 <img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://user-images.githubusercontent.com/89584431/216820527-3547f251-7d3e-4362-92eb-c2fd8fc0192a.gif"/>
 <br/>
-
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 
