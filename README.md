@@ -25,7 +25,6 @@
 <br />
 <br>
 <br>
-<br>
 
 ## My Github Stats:
 <a href="https://github.com/DonGuillotine">
