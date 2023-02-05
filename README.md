@@ -7,12 +7,12 @@
 </a>
 
 ### Here are some fun facts about me:
-- 💻 I enjoy solving complex problems and fixing technical issues.
-- 🚀 I’m currently looking for a Job as a Backend Developer.
-- 🔭 I'm a Professional Facebook 3D creator, you can find my works [here](https://www.facebook.com/infect3dstudio/).
-- 👯 I’m looking to collaborate with people with Amazing Ideas.
-- 🎵 Music lover with a fondness for classic hits from various decades by artists such as Frank Sinatra, Bee Gees, Tears for Fears and other amazing singers.
-- 📙 I love to read, I'm a Huge fan of Dan Brown, Tom Clancy, Anne Rice and Thomas Hardy's books.
+- 💻  I enjoy solving complex problems and fixing technical issues.
+- 🚀  I’m currently looking for a Job as a Backend Developer.
+- 🔭  I'm a Professional Facebook 3D creator, you can find my works [here](https://www.facebook.com/infect3dstudio/).
+- 👯  I’m looking to collaborate with people with Amazing Ideas.
+- 🎵  Music lover with a fondness for classic hits from various decades by artists such as Frank Sinatra, Bee Gees, Tears for Fears and other amazing singers.
+- 📙  I love to read, I'm a Huge fan of Dan Brown, Tom Clancy, Anne Rice and Thomas Hardy's books.
 <br />
 
 ## 📞 Connect with me
@@ -22,7 +22,14 @@
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:infect3dlab@gmail.com)
 [<img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/infect3dstudio/)
 
+<br />
 <br>
+<br>
+<br>
+<br>
+<br>
+
+## My Github Stats:
 <a href="https://github.com/DonGuillotine">
   <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=DonGuillotine&theme=tokyonight" />
 </a>
