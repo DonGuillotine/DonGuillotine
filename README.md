@@ -22,11 +22,6 @@
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:infect3dlab@gmail.com)
 [<img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/infect3dstudio/)
 
-<!-- <span> [𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞](http://ayushkanduri.dev)&emsp;|&emsp;[𝐑𝐞𝐬𝐮𝐦𝐞](http://ayushkanduri.dev/resume) </span> -->
-<br>
-<br>
-<br>
-<br>
 <br>
 <a href="https://github.com/DonGuillotine">
   <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=DonGuillotine&theme=tokyonight" />
