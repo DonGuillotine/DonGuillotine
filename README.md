@@ -26,36 +26,25 @@
 <br>
 <br>
 
-## 📊 My Github Stats:
 #
-
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=DonGuillotine&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DonGuillotine&theme=darkhub&column=-1&margin-w=15">
+</p>
 
 <p align="center">
-  <img height="150" width="150" src="WEBP/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DonGuillotine&theme=tokyonight"/>
-  <img height="150" width="150" src="WEBP/right.webp">
+  <img height="150" width="150" src="assets/left.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DonGuillotine&theme=dark&hide_border=true"/>
+  <img height="150" width="150" src="assets/right.webp">
+</p>
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DonGuillotine&hide=contribs&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="169px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonGuillotine&hide=html,css,scss&hide_border=true&langs_count=10&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&count_private=true&layout=compact&theme=tokyonight" />
 </p>
 
 #
-<a href="https://github.com/DonGuillotine">
-  <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=DonGuillotine&theme=tokyonight" />
-</a>
-<br>
-<br>
-<br>
-<a href="https://github.com/DonGuillotine">
-      <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=DonGuillotine&hide=contribs&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<br>
-<br>
-<br>
-<a href="https://github.com/DonGuillotine">
-          <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonGuillotine&hide=html,css,scss&langs_count=8&count_private=true&layout=compact&theme=tokyonight" />
-</a>
-<br>
-<br>
-<br>
+
+
 <a href="[DonGuillotine](https://github.com/DonGuillotine)">
  <img align="center" src="https://github-profile-trophy.vercel.app/?username=DonGuillotine&theme=darkhub&column=-1&margin-w=15" />
  </a>
