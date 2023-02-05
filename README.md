@@ -26,15 +26,11 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 
 ## My Github Stats:
 <a href="https://github.com/DonGuillotine">
   <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=DonGuillotine&theme=tokyonight" />
 </a>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -44,12 +40,9 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 <a href="https://github.com/DonGuillotine">
           <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonGuillotine&hide=html,css,scss&langs_count=8&count_private=true&layout=compact&theme=tokyonight" />
 </a>
-<br>
 <br>
 <br>
 <br>
