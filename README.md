@@ -13,7 +13,7 @@
 - 👯  I’m looking to collaborate with people with Amazing Ideas.
 - 🎵  Music lover with a fondness for classic hits from various decades by artists such as Frank Sinatra, Bee Gees, Tears for Fears and other amazing singers.
 - 📙  I love to read. I'm a Huge fan of Dan Brown, Tom Clancy, Anne Rice and Thomas Hardy's books.
-<br />
+<br/>
 
 ## 📩 Connect with me
 
@@ -22,7 +22,7 @@
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:infect3dlab@gmail.com)
 [<img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/infect3dstudio/)
 
-<br />
+<br/>
 <br>
 <br>
 
