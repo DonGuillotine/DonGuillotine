@@ -1,6 +1,6 @@
 ![Studio_Project](https://user-images.githubusercontent.com/89584431/216503042-d6ec35f1-be45-470f-90ec-38ebcb76f09d.gif)
-<br />
-<br />
+<br>
+<br>
 
 <a href="https://app.daily.dev/DonGuillotine">
   <img src="https://api.daily.dev/devcards/b4681b96ff8545eb87624c936831470a.png?r=ejc" width="400" alt="Donald Nwokoro's Dev Card" align="right"/>
