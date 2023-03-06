@@ -102,11 +102,11 @@
 
 #
 
-**MY ATTENDED HACKATHONS :**  
+**ATTENDED HACKATHONS :**  
 
 <img src="https://user-images.githubusercontent.com/89584431/223220804-41b48941-cb71-49e4-9504-a57b2a4db48c.jpg">
 
-**MY UPCOMING HACKATHONS :**  
+**UPCOMING HACKATHONS :**  
 
 <p float="left">
 <img src="https://user-images.githubusercontent.com/89584431/223222630-0d9ad560-17ba-4049-9924-27815fe560f1.jpg" width="500">
