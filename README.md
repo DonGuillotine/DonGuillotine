@@ -102,8 +102,13 @@
 
 #
 
-**My Attended Hackathons :**  
+**MY ATTENDED HACKATHONS :**  
 
-![hackathon_1](https://user-images.githubusercontent.com/89584431/223220804-41b48941-cb71-49e4-9504-a57b2a4db48c.jpg)
+<img src="https://user-images.githubusercontent.com/89584431/223220804-41b48941-cb71-49e4-9504-a57b2a4db48c.jpg">
+
+**MY UPCOMING HACKATHONS :**  
+
+<img src="https://user-images.githubusercontent.com/89584431/223222630-0d9ad560-17ba-4049-9924-27815fe560f1.jpg" align="left">
+<img src="https://user-images.githubusercontent.com/89584431/223222662-6a4ed410-59ef-41d6-8bba-1db70d99323e.jpg">
 
 #
