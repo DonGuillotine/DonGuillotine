@@ -109,9 +109,13 @@
 **UPCOMING HACKATHONS:**  
 
 <p float="left">
-<img src="https://user-images.githubusercontent.com/89584431/223222630-0d9ad560-17ba-4049-9924-27815fe560f1.jpg" width="400">
+  <a href="https://lablab.ai/event/salz21-ai-hackathon/the-team">
+    <img src="https://user-images.githubusercontent.com/89584431/223222630-0d9ad560-17ba-4049-9924-27815fe560f1.jpg" width="400">
+  </a>
   &nbsp; &nbsp; &nbsp; &nbsp;
-<img src="https://user-images.githubusercontent.com/89584431/223222662-6a4ed410-59ef-41d6-8bba-1db70d99323e.jpg" width="400">
+  <a href="https://lablab.ai/event/salz21-ai-hackathon/the-team">
+    <img src="https://user-images.githubusercontent.com/89584431/223222662-6a4ed410-59ef-41d6-8bba-1db70d99323e.jpg" width="400">
+  </a>
 </p>
   
 #
