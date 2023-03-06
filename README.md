@@ -88,7 +88,7 @@
 
 #
 
-**GITHUB STATS :**  
+**GITHUB STATS:**  
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=DonGuillotine&hide=contribs&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
@@ -102,11 +102,11 @@
 
 #
 
-**ATTENDED HACKATHONS :**  
+**ATTENDED HACKATHONS:**  
 
 <img src="https://user-images.githubusercontent.com/89584431/223220804-41b48941-cb71-49e4-9504-a57b2a4db48c.jpg">
 
-**UPCOMING HACKATHONS :**  
+**UPCOMING HACKATHONS:**  
 
 <p float="left">
 <img src="https://user-images.githubusercontent.com/89584431/223222630-0d9ad560-17ba-4049-9924-27815fe560f1.jpg" width="500">
