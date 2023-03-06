@@ -102,7 +102,7 @@
 
 #
 
-**ATTENDED HACKATHONS:**  
+**COMPLETED HACKATHONS:**  
 
 <a href="https://lablab.ai/event/openai-hackathon/gatieon/text-laymanizer"><img src="https://user-images.githubusercontent.com/89584431/223220804-41b48941-cb71-49e4-9504-a57b2a4db48c.jpg"></a>
 
