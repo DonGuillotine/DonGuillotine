@@ -109,7 +109,7 @@
 **UPCOMING HACKATHONS:**  
 
 <p float="left">
-  <a href="https://lablab.ai/event/multilingual-semantic-search-hackathon">
+  <a href="https://lablab.ai/event/multilingual-semantic-search-hackathon/the-team">
     <img src="https://user-images.githubusercontent.com/89584431/223222630-0d9ad560-17ba-4049-9924-27815fe560f1.jpg" width="400">
   </a>
   &nbsp; &nbsp; &nbsp; &nbsp;
