@@ -108,9 +108,10 @@
 
 **UPCOMING HACKATHONS:**  
 
-<p float="left">
-<img src="https://user-images.githubusercontent.com/89584431/223222630-0d9ad560-17ba-4049-9924-27815fe560f1.jpg" width="500">
-<img src="https://user-images.githubusercontent.com/89584431/223222662-6a4ed410-59ef-41d6-8bba-1db70d99323e.jpg" width="500">
+<p align="center">
+<img src="https://user-images.githubusercontent.com/89584431/223222630-0d9ad560-17ba-4049-9924-27815fe560f1.jpg" width="45%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+<img src="https://user-images.githubusercontent.com/89584431/223222662-6a4ed410-59ef-41d6-8bba-1db70d99323e.jpg" width="45%">
 </p>
   
 #
