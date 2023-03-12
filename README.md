@@ -106,7 +106,7 @@
 
 <a target="_blank" href="https://lablab.ai/event/openai-hackathon/gatieon/text-laymanizer"><img src="https://user-images.githubusercontent.com/89584431/223220804-41b48941-cb71-49e4-9504-a57b2a4db48c.jpg"></a>
 
-**UPCOMING HACKATHONS:**  
+**MY ONGOING HACKATHONS:** 
 
 <p float="left">
   <a href="https://lablab.ai/event/multilingual-semantic-search-hackathon/the-team" target="_blank">
@@ -117,6 +117,9 @@
     <img src="https://user-images.githubusercontent.com/89584431/223222662-6a4ed410-59ef-41d6-8bba-1db70d99323e.jpg" width="400">
   </a>
 </p>
+
+**UPCOMING HACKATHONS:**  
+
 
 <p float="left">
   <a href="https://lablab.ai/event/chatgpt-api-and-whisper-api-global-hackathon/the-team" target="_blank">
