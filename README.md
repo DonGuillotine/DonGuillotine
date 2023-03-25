@@ -134,7 +134,7 @@
 
 <p float="left">
   <a href="https://lablab.ai/event/ai-startup-hackathon-episode-2/the-team" target="_blank">
-    <img src="https://user-images.githubusercontent.com/89584431/223849093-3f38286a-2e3d-4aaf-9017-c9d62304cf93.jpg" width="400">
+    <img src="https://user-images.githubusercontent.com/89584431/223849093-3f38286a-2e3d-4aaf-9017-c9d62304cf93.jpg">
   </a>
 </p>
 
