@@ -123,7 +123,7 @@
 
 
 <p float="left">
-  <a href="https://lablab.ai/event/chatgpt-api-and-whisper-api-global-hackathon/the-team" target="_blank">
+  <a href="https://lablab.ai/event/chatgpt-api-and-whisper-api-global-hackathon/the-team">
     <img src="https://user-images.githubusercontent.com/89584431/223849085-1c5ecda6-729a-42ed-908e-5f9d0cbeb293.jpg">
   </a>
 </p>
