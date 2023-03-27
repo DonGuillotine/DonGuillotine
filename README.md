@@ -116,15 +116,9 @@
     <a href="https://lablab.ai/event/multilingual-semantic-search-hackathon/the-team">
     <img src="https://user-images.githubusercontent.com/89584431/223222630-0d9ad560-17ba-4049-9924-27815fe560f1.jpg" width="400">
   </a>
-</p>
-
-
-**ONGOING HACKATHONS:** 
-
-
-<p float="left">
-  <a href="https://lablab.ai/event/chatgpt-api-and-whisper-api-global-hackathon/the-team">
-    <img src="https://user-images.githubusercontent.com/89584431/223849085-1c5ecda6-729a-42ed-908e-5f9d0cbeb293.jpg">
+  &nbsp;
+    <a href="https://lablab.ai/event/chatgpt-api-and-whisper-api-global-hackathon/the-team">
+    <img src="https://user-images.githubusercontent.com/89584431/223849085-1c5ecda6-729a-42ed-908e-5f9d0cbeb293.jpg" width="400">
   </a>
 </p>
 
