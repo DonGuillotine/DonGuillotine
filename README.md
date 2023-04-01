@@ -124,7 +124,7 @@
 
 
 
-**UPCOMING HACKATHONS:**  
+**ONGOING HACKATHONS:**  
 
 <p float="left">
   <a href="https://lablab.ai/event/ai-startup-hackathon-episode-2/the-team">
