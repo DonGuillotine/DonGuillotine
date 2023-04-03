@@ -122,8 +122,6 @@
   </a>
 </p>
 
-
-
 **ONGOING HACKATHONS:**  
 
 <p float="left">
