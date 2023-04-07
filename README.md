@@ -130,4 +130,12 @@
   </a>
 </p>
 
+**UPCOMING HACKATHONS:** 
+
+<p float="left">
+  <a href="https://lablab.ai/event/ai-startup-hackathon-episode-2/the-team">
+    <img src="https://user-images.githubusercontent.com/89584431/223849093-3f38286a-2e3d-4aaf-9017-c9d62304cf93.jpg">
+  </a>
+</p>
+
 #
