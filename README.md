@@ -134,7 +134,7 @@
 
 <p float="left">
   <a href="https://lablab.ai/event/stable-diffusion-ai-hackathon/youtube-thumbnails">
-    <img src="https://user-images.githubusercontent.com/89584431/223849093-3f38286a-2e3d-4aaf-9017-c9d62304cf93.jpg">
+    <img src="">
   </a>
 </p>
 
