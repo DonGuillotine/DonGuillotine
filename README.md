@@ -120,15 +120,12 @@
     <a href="https://lablab.ai/event/chatgpt-api-and-whisper-api-global-hackathon/the-team">
     <img src="https://user-images.githubusercontent.com/89584431/223849085-1c5ecda6-729a-42ed-908e-5f9d0cbeb293.jpg" width="400">
   </a>
-</p>
-
-**ONGOING HACKATHONS:**  
-
-<p float="left">
-  <a href="https://lablab.ai/event/ai-startup-hackathon-episode-2/the-team">
-    <img src="https://user-images.githubusercontent.com/89584431/223849093-3f38286a-2e3d-4aaf-9017-c9d62304cf93.jpg">
+  &nbsp; &nbsp;
+   <a href="https://lablab.ai/event/ai-startup-hackathon-episode-2/the-team">
+    <img src="https://user-images.githubusercontent.com/89584431/230711856-878f4d96-e3c5-4a26-acf9-90a08b1979ef.jpeg" width="400">
   </a>
 </p>
+
 
 **UPCOMING HACKATHONS:** 
 
