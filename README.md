@@ -126,6 +126,16 @@
   </a>
 </p>
 
+**ONGOING HACKATHONS:** 
+
+<p float="left">
+  <a href="https://lablab.ai/event/stable-diffusion-ai-hackathon/youtube-thumbnails">
+    <img src="https://user-images.githubusercontent.com/89584431/230711856-878f4d96-e3c5-4a26-acf9-90a08b1979ef.jpeg">
+  </a>
+</p>
+
+#
+
 
 **UPCOMING HACKATHONS:** 
 
