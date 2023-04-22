@@ -145,8 +145,7 @@
 
 <p float="left">
    <a href="https://lablab.ai/event/autonomous-gpt-agents-hackathon">
-    <img src="![langChain](https://user-images.githubusercontent.com/89584431/233779232-694ccccd-9065-4f42-9347-5ac14c2b050f.jpeg)
-">
+    <img src="https://user-images.githubusercontent.com/89584431/233779232-694ccccd-9065-4f42-9347-5ac14c2b050f.jpeg">
   </a>
 </p>
 
