@@ -124,14 +124,16 @@
    <a href="https://lablab.ai/event/ai-startup-hackathon-episode-2/the-team">
     <img src="https://user-images.githubusercontent.com/89584431/230712035-3098279d-65b4-41ad-8e1c-6d12466fa8d3.jpg" width="400">
   </a>
+  &nbsp; &nbsp;
+  <a href="https://lablab.ai/event/stable-diffusion-ai-hackathon/youtube-thumbnails">
+    <img src="https://user-images.githubusercontent.com/89584431/230711856-878f4d96-e3c5-4a26-acf9-90a08b1979ef.jpeg" width="400">
+  </a>
 </p>
 
 **ONGOING HACKATHONS:** 
 
 <p float="left">
-  <a href="https://lablab.ai/event/stable-diffusion-ai-hackathon/youtube-thumbnails">
-    <img src="https://user-images.githubusercontent.com/89584431/230711856-878f4d96-e3c5-4a26-acf9-90a08b1979ef.jpeg">
-  </a>
+
 </p>
 
 #
