@@ -140,7 +140,6 @@
 
 #
 
-
 **UPCOMING HACKATHONS:** 
 
 <p float="left">
