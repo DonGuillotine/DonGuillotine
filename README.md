@@ -133,7 +133,7 @@
 **ONGOING HACKATHONS:** 
 
 <p float="left">
-    <a href="https://lablab.ai/event/ai21-labs-hackathon-2">
+    <a href="https://lablab.ai/event/ai21-labs-hackathon-2/traverse">
     <img src="https://user-images.githubusercontent.com/89584431/230712723-2fa96e28-fe44-4413-bf2b-3793da1f7a7a.jpeg">
   </a>
 </p>
