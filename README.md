@@ -139,9 +139,3 @@
 </p>
 
 #
-
-**UPCOMING HACKATHONS:** 
-
-
-
-#
