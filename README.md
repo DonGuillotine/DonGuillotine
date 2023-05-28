@@ -132,7 +132,7 @@
 
 #
 
-**ONGOING HACKATHONS:** <i></i>
+**ONGOING HACKATHONS:**
 
 <p>
 <a href="">
