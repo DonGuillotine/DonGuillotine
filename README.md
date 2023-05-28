@@ -132,7 +132,7 @@
 
 #
 
-**ONGOING HACKATHONS:** <i>Click on the images to find out more!</i>
+**ONGOING HACKATHONS:** <i></i>
 
 <p>
 <a href="">
