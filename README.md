@@ -135,7 +135,7 @@
 **ONGOING HACKATHONS:**
 
 <p>
-    <img src="https://github.com/DonGuillotine/DonGuillotine/assets/89584431/aaa139b4-57ca-4568-8bcf-d86492a333d5">
+    <img src="https://github.com/DonGuillotine/DonGuillotine/assets/89584431/aaa139b4-57ca-4568-8bcf-d86492a333d5" />
 </p>
 
 #
