@@ -101,7 +101,7 @@
 
 #
 
-**COMPLETED HACKATHONS:** <i>Click on the images to find out more!</i>
+**COMPLETED HACKATHONS:** <i>Click the images to find out more!</i>
 
 <p float="left">
   <a href="https://lablab.ai/event/openai-hackathon/gatieon/text-laymanizer" target="_blank">
