@@ -130,7 +130,7 @@
   <a>
      <img src="https://github.com/DonGuillotine/DonGuillotine/assets/89584431/aaa139b4-57ca-4568-8bcf-d86492a333d5" width="400">
   </a>
-  <a>
+  <a href="https://lablab.ai/event/monday-ai-app-hackathon/simons-strike-team/monday-ai-assistant">
      <img src="https://github.com/DonGuillotine/DonGuillotine/assets/89584431/90917306-1f50-46e4-a8b9-2b9981d444a5" width="400">
   </a>
 </p>
