@@ -138,6 +138,10 @@
   <a href="https://lablab.ai/event/ai-agents-hackathon-2/viral-cuts/viral-clips">
      <img src="https://github.com/DonGuillotine/DonGuillotine/assets/89584431/62cf67c7-6df6-4337-809a-8fd2e102b748" width="400">
   </a>
+   &nbsp; &nbsp;
+  <a href="https://lablab.ai/event/monday-ai-app-hackathon/simons-strike-team/monday-ai-assistant">
+     <img src="https://github.com/DonGuillotine/DonGuillotine/assets/89584431/cb2e560f-5ac1-45a2-ada8-ea7681b7be34" width="400">
+  </a>
 </p>
 
 #
