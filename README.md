@@ -3,8 +3,10 @@
 <br>
 
 <a href="https://app.daily.dev/DonGuillotine">
-  <img src="https://api.daily.dev/devcards/b4681b96ff8545eb87624c936831470a.png?r=ejc" width="400" alt="Donald Nwokoro's Dev Card" align="right"/>
+  <img src="https://app.daily.dev/icodejsx"><img src="https://api.daily.dev/devcards/9006b5657f984b6299a44312a7dca0c7.png?r=mad" width="400" alt="Nweke kenechukwu christopher's Dev Card" align="right"/>
 </a>
+
+<a /></a>
 
 ### Here are some fun facts about me:
 - 💻  I enjoy solving complex problems and fixing technical issues.
