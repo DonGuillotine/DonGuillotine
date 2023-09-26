@@ -6,7 +6,7 @@
   <img src="https://api.daily.dev/devcards/b4681b96ff8545eb87624c936831470a.png?r=ejc" width="400" alt="Donald Nwokoro's Dev Card" align="right"/>
 </a>
 
-### Here are some fun facts about me:
+**Here are some fun facts about me:**
 - 💻  I enjoy solving complex problems and fixing technical issues.
 - 🚀  I’m currently looking for a Job as a Backend Developer.
 - 🔭  I'm a Professional Facebook 3D creator, you can find my works [here](https://www.facebook.com/infect3dstudio/)
@@ -15,7 +15,7 @@
 - 📙  I love to read. I'm a huge fan of Dan Brown, Stephen King, Anne Rice and Thomas Hardy's books.
 <br/>
 
-** 📩 Connect with me!**
+**📩 Connect with me!**
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/donald-nwokoro/)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/_donGuillotine)
@@ -26,7 +26,7 @@
 <br>
 <br>
 
-** Streetcred 🥷🏿**
+**🥷🏿Streetcred**
 
 <p align="center"><a href="https://www.tublian.com/profile/DonGuillotine?ss=true"><img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/DonGuillotine?type=with_score"></a></p>
 
