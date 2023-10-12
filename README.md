@@ -11,7 +11,7 @@
 - 🚀  I’m currently looking for a Job as a Backend Developer.
 - 🔭  I'm a Professional Facebook 3D creator, you can find my works [here](https://www.facebook.com/infect3dstudio/)
 - 👥  I’m looking to collaborate with people with Amazing Ideas!
-- 🎵  I'm a music lover with a fondness for classic hits from various decades by artists such as Frank Sinatra, A flock of Seagulls, Tears for Fears and other amazing singers.
+- 🎵  I'm a music lover with a fondness for classic hits from various decades by artists such as Frank Sinatra, Rick Astley, Tears for Fears and other amazing singers.
 - 📙  I love to read. I'm a huge fan of Dan Brown, Stephen King, Anne Rice and Thomas Hardy's books.
 <br/>
 
