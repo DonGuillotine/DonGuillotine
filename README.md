@@ -95,7 +95,9 @@
 
 #
 
-**GITHUB STATS :**  
+**GITHUB STATS :**
+
+<img src="https://github.com/DonGuillotine/DonGuillotine/assets/89584431/016c41e8-051f-4578-a1fe-df766ec4c855" width="700" alt="My GitHub Skyline which is my GitHub Contribution graph in 3D">
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=DonGuillotine&hide=contribs&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
