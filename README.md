@@ -2,8 +2,8 @@
 <br>
 <br>
 
-<a href="https://app.daily.dev/DonGuillotine">
-  <img src="https://api.daily.dev/devcards/b4681b96ff8545eb87624c936831470a.png?r=ejc" width="400" alt="Donald Nwokoro's Dev Card" align="right"/>
+<a href="https://app.daily.dev/donguillotine">
+  <img src="https://api.daily.dev/devcards/v2/nqFB0lL74stL0Tn7Wm7rc.png?type=default&r=hu7" width="356" alt="Donald Nwokoro's Dev Card"/>
 </a>
 
 **Here are some fun facts about me:**
