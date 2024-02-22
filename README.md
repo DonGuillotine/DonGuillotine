@@ -3,7 +3,7 @@
 <br>
 
 <a href="https://app.daily.dev/donguillotine">
-  <img src="https://api.daily.dev/devcards/v2/nqFB0lL74stL0Tn7Wm7rc.png?type=default&r=hu7" width="356" alt="Donald Nwokoro's Dev Card"/>
+  <img src="https://api.daily.dev/devcards/v2/nqFB0lL74stL0Tn7Wm7rc.png?type=default&r=hu7" width="400" alt="Donald Nwokoro's Dev Card" align="right"/>
 </a>
 
 **Here are some fun facts about me:**
