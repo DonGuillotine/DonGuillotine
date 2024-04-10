@@ -100,7 +100,7 @@
 <img src="https://github.com/DonGuillotine/DonGuillotine/assets/89584431/016c41e8-051f-4578-a1fe-df766ec4c855" width="900" alt="My GitHub Skyline which is my GitHub Contribution graph in 3D">
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DonGuillotine&hide=contribs&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+      <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&preferLogin=false">    <img  alt="donGuillotine's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/donGuillotine?cardType=level&theme=github-dark&preferLogin=false" /></a>
     <img align="center" height="169px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonGuillotine&hide=html,css,scss&hide_border=true&langs_count=10&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&count_private=true&layout=compact&theme=tokyonight" />
 </p>
  
