@@ -41,9 +41,9 @@
 </p>
 
 <p align="center">
-  <img height="150" width="150" src="assets/left.webp">
+  <img height="200" width="200" src="https://github.com/DonGuillotine/DonGuillotine/assets/89584431/dae7482c-d2af-49ec-9316-8e0317751a7b">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DonGuillotine&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="assets/right.webp">
+  <img height="200" width="200" src="https://github.com/DonGuillotine/DonGuillotine/assets/89584431/6a776160-c3a6-44e9-86b9-d0e16d3490a3">
 </p>
 
 #
