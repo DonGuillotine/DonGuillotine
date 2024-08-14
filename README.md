@@ -25,10 +25,17 @@
 
 <br/>
 <br>
+
+Buy Me a Coffee
+===============
+
 <br>
 <br/>
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/infect3dlar)
+
 <br>
-<br>
+<br/>
 
 ## Tublian Streetcred
 
@@ -152,4 +159,8 @@
   </a>
 </p>
 
+Buy Me a Coffee
+===============
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/infect3dlar)
 #
